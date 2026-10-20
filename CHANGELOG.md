@@ -1,3 +1,7 @@
+## v0.15.5
+
+- Custom rock images
+  
 ## v0.15.4 Changes
 
 - Fix flathub details
